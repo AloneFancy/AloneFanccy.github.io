@@ -1,0 +1,1 @@
+# AloneFanccy.github.io
