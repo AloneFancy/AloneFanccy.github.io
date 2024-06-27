@@ -1,4 +1,4 @@
-baseURL = 'alonefancy.github.io'
+baseURL = '.'
 languageCode = 'en-us'
 title = 'Mein Profil'
 theme = 'hugo.386'
