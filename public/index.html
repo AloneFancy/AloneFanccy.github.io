@@ -7,14 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no" />
     <meta name="theme-color" content="#000084" />
-    <link rel="icon" href="//localhost:1313//favicon.ico">
-    <link rel="canonical" href="//localhost:1313/">
+    <link rel="icon" href="http://localhost:1313//favicon.ico">
+    <link rel="canonical" href="http://localhost:1313/">
     
     
 </head>
 <body class="bootstra-enable-cursor ">
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-    <a class="navbar-brand" href="//localhost:1313/">Mein Profil</a>
+    <a class="navbar-brand" href="http://localhost:1313/">Mein Profil</a>
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#main-nav" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -54,7 +54,47 @@
         <div class="bs-component mb-3">
             <h1>Blog posts</h1>
             <ul class="list-group">
-                    
+                     
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <a href="http://localhost:1313/post/markdown-syntax/">Markdown Syntax Guide</a>
+                    <span class="badge badge-primary badge-pill">2019-03-11</span>
+                </li>
+                  
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <a href="http://localhost:1313/post/markdown-syntax_1/">Markdown Syntax Guide</a>
+                    <span class="badge badge-primary badge-pill">2019-03-11</span>
+                </li>
+                  
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <a href="http://localhost:1313/post/rich-content/">Rich Content</a>
+                    <span class="badge badge-primary badge-pill">2019-03-10</span>
+                </li>
+                  
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <a href="http://localhost:1313/post/placeholder-text/">Placeholder Text</a>
+                    <span class="badge badge-primary badge-pill">2019-03-09</span>
+                </li>
+                  
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <a href="http://localhost:1313/post/placeholder-text_1/">Placeholder Text</a>
+                    <span class="badge badge-primary badge-pill">2019-03-09</span>
+                </li>
+                  
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <a href="http://localhost:1313/post/math-typesetting/">Math Typesetting</a>
+                    <span class="badge badge-primary badge-pill">2019-03-08</span>
+                </li>
+                  
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <a href="http://localhost:1313/post/math-typesetting_1/">Math Typesetting</a>
+                    <span class="badge badge-primary badge-pill">2019-03-08</span>
+                </li>
+                  
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <a href="http://localhost:1313/post/emoji-support/">Emoji Support</a>
+                    <span class="badge badge-primary badge-pill">2019-03-05</span>
+                </li>
+                 
             </ul>
         </div>
     </div>
@@ -65,14 +105,22 @@
                 <div class="card-header">Categories</div>
                 <div class="card-body">
                     
+<a class="btn btn-primary" href="http://localhost:1313/categories/syntax/">Syntax</a><br> 
+<a class="btn btn-primary" href="http://localhost:1313/categories/themes/">Themes</a><br> 
                 </div>
             </div>
             <div class="card text-white bg-primary mb-3 sideblock">
                 <div class="card-header">Tags</div>
                 <div class="card-body">
                     
-<a class="btn btn-primary" href="//localhost:1313/tags/archives/">Archives</a><br> 
-<a class="btn btn-primary" href="//localhost:1313/tags/index/">Index</a><br> 
+<a class="btn btn-primary" href="http://localhost:1313/tags/css/">Css</a><br> 
+<a class="btn btn-primary" href="http://localhost:1313/tags/html/">Html</a><br> 
+<a class="btn btn-primary" href="http://localhost:1313/tags/index/">Index</a><br> 
+<a class="btn btn-primary" href="http://localhost:1313/tags/markdown/">Markdown</a><br> 
+<a class="btn btn-primary" href="http://localhost:1313/tags/privacy/">Privacy</a><br> 
+<a class="btn btn-primary" href="http://localhost:1313/tags/shortcodes/">Shortcodes</a><br> 
+<a class="btn btn-primary" href="http://localhost:1313/tags/text/">Text</a><br> 
+<a class="btn btn-primary" href="http://localhost:1313/tags/emoji/">Emoji</a><br> 
                 </div>
             </div>
         </div>
@@ -135,19 +183,24 @@
         document.getElementById('thisyear').innerHTML = new Date().getFullYear();
     };
 </script>
-<script>
-  (function() {
-      _386.magicCursor(),
-      _386.scrollLock(),
-      $('[data-toggle="tooltip"]').tooltip(),
-      $('[data-toggle="popover"]').popover(),
-      $(window).scroll(function() {
-          var e = $(document).scrollTop();
-          e > 50 ? $("#home > .navbar").removeClass("navbar-transparent") : $("#home > .navbar").addClass("navbar-transparent")
-      }),
-      $("a[href='#']").click(function(e) {
-          e.preventDefault()
-      })
-  }
-  )()
-</script></html>
+<script>	
+	
+(function(){
+  _386.magicCursor();
+  _386.scrollLock();
+  $('[data-toggle="tooltip"]').tooltip();
+  $('[data-toggle="popover"]').popover();
+
+  $(window).scroll(function() {
+    var top = $(document).scrollTop();
+    if(top > 50)
+      $('#home > .navbar').removeClass('navbar-transparent');
+    else
+      $('#home > .navbar').addClass('navbar-transparent');
+  });
+
+  $("a[href='#']").click(function(e) {
+    e.preventDefault();
+  });
+
+})();</script></html>
