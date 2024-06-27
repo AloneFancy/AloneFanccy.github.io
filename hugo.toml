@@ -1,7 +1,7 @@
 baseURL = '.'
 languageCode = 'en-us'
 title = 'Mein Profil'
-theme = 'hugo.386'
+#theme = 'hugo.386'
 
 
 [params]
