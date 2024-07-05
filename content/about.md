@@ -1,25 +1,22 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "A B.S wanderer from HCMUT who is interested in Security, Monitoring and Game Design"
+date = "2024-06-28"
+aliases = ["about-us", "alonefancy", "contact"]
+author = "Alonefancy"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## Desperately seeking for purposes of my life
 
-Hugo makes use of a variety of open source projects including:
+"Peonies, roses, or jasmine flowers? I could never remember.”
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+“Though I still feel the butterflies in my stomach.”
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+“Her cold skin under my caress.”
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+“How she loved the poems I would whisper to her.”
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+“The disappointment I felt when I had to let her go.”
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+“It wasn’t until much later that I was able to scream into the wind.”
+###### Skeleton - Tormented Souls (2021) 

@@ -98,3 +98,4 @@ tag = "tags"
 
   [services.twitter]
     disableInlineCSS = true
+
