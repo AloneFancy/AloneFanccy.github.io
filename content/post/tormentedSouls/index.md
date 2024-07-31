@@ -13,7 +13,7 @@ Không để dài dòng, mình viết bài này để chia sẻ góc nhìn của
 
 {{< figure src="Entrance.jpg" width= 1200 title="`First Encounter`" >}}
 
-###### Warning Spoilers
+##### Warning Spoilers
 
 Nhân vật chính trong tựa game là Caroline Walker, một cô gái sống trong một căn hộ nhỏ và thường xuyên gặp ác mộng về cảnh bản thân bị giam giữ ở một nơi tối tăm và đầy những những tiếng kim loại quái dị. Bỗng một ngày cô nhận được một bức thư từ bệnh viện Winterlake, đảo Blackwood chứa một tấm ảnh của một cặp song sinh với nội dung "Do you think you can just simply abandon us here?". Để chấm dứt cơn ác mộng không hồi kết này, cô quyết định đi đến bệnh viện Winterlake để điều tra nguồn gốc của sự việc quái lạ này và cô không có partner đi cùng như Aline Cedrac đâu nha. Đối với Aline Cedrac, cô cũng được Johnson dùng thân thế của mình để làm mồi để lôi kéo cô tới Shadows Island. Và đoán xem, cũng như Aline Cedrac, Caroline được người cha thân thiện của mình chào đón bằng một cú đập bằng ống sắt vào đầu, Aline có vẻ may mắn hơn khi cha vẫn nhận ra cô còn William Wildberger - cha của Caroline - thậm chí lão còn tính dùng cô để làm vật thí nghiệm cuối cùng cho `antidote` cho một căn bệnh tai ác sẽ được đề cập sau.
 
@@ -59,7 +59,7 @@ Tóm lại mình thấy đây giống như một bản nâng cấp đầy [lãng
 
 #### Bonus
 
-Sau khi bạn phá đảo sẽ hiện ra bảng điểm kèm với kí hiệu gợi ý cách lấy thêm **máy bắn đinh hạng nặng** (sẽ giúp bạn tiết kiếm rất nhiều đinh đó <3)
+Sau khi bạn phá đảo sẽ hiện ra bảng điểm kèm với kí hiệu gợi ý cách lấy thêm `máy bắn đinh hạng nặng` (sẽ giúp bạn tiết kiếm rất nhiều đinh đó <3)
 {{< figure src="Extra gun.jpg" width= 1200 title="Nó trong tranh nè" style="text-align: center;" >}}
 
 ###### AloneFancy
