@@ -20,3 +20,13 @@ author = "Alonefancy"
 
 “It wasn’t until much later that I was able to scream into the wind.”
 ###### Skeleton - Tormented Souls (2021) 
+
+Със чии очи сънувам
+
+Чий е този лик обречен
+
+Смъртен глас ми се причува
+
+и отеква с вик далечен
+
+###### Who am I?
