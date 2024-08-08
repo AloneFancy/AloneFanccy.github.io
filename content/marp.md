@@ -16,7 +16,7 @@ math: katex
 1. はじめに
 2. コードブロック
 3. 数式
-4   . 図
+4. 図
 
 ---
 
@@ -55,3 +55,16 @@ $$
 
 こんな感じで数式を書くことができる。もちろんインラインの $\LaTeX$ も使える。  
 ついでに絵文字も使える:smile:
+
+---
+<!-- _header: Table -->
+
+<div class="twocols">
+
+## LHS Title
+- item
+
+<p class="break"></p>
+
+![right height:350px](https://raw.githubusercontent.com/marp-team/marp-vscode/main/docs/custom-theme.gif)
+</div>

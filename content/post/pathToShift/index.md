@@ -4,7 +4,7 @@ title = "Con đường phát triển: lối mòn nhưng mới là đường đi 
 date = "2024-07-31"
 description = "Không thể kể một câu chuyện hay khi cố truyền tải một thứ gì đó được, câu chuyện hay thì nó cứ diễn tiến thôi"
 tags = [
-    "pathToShift",
+    "Blogs",
 ]
 +++
 

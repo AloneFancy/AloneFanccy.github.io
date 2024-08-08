@@ -4,7 +4,10 @@ title = "Tormented Souls (2021) - Quá khứ đau buồn của ... Aline Cedrac'
 date = "2024-07-19"
 description = "Một tựa game indie xuất sắc đến từ nhà phát hành Chile"
 tags = [
-    "tormentedSouls",
+    "Blogs","Games"
+]
+categories = [
+    "Games",
 ]
 +++
 
