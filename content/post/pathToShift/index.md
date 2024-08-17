@@ -54,7 +54,7 @@ Kết quả cũng như case study 2, đầy công thức của những màn jump
 
 Tựa game từ nhà phát triển Argentina kể về cậu thanh niên Luca qua bối cảnh của những vụ án tàn bạo, sử dụng chiếc máy ảnh được tặng năm 16 tuổi - thứ có được từ kẻ sát nhân 30 năm về trước, và cậu phải chiến đấu với những ác linh khi hai thế giới đan xen vào nhau. Không gian chật hẹp, tối tăm, âm thanh rợn tóc, cùng những khoảnh khắc chờ rửa tấm hình đã tạo nên nét riêng của đội ngũ làm game. Cốt truyện xây dựng đủ kinh hoàng và liền mạch, không tạo nên những khoảng trống vô lý hay gượng ép trong dòng thời gian. Bối cảnh ư? Đơn giản là bạn chẳng nhận ra game nói rõ là ở đâu cả ngoài phong cách khá nông thôn hiện đại tại đa số các nước châu Mỹ.
 
-Theo Di Stefano - creator của MADiSON, trong tựa game có khá nhiều references tới nguồn cảm hứng từ Clock Tower II: The Struggle Within(1998) chính là cảm hứng chính cho tựa game của ông. Đối với tôi thì tôi thích cách người ta tâm huyết nghiền ngẫm tác phẩm cũ và đưa vào trong những chi tiết để bày tỏ sự cảm ơn.
+Theo Alexis Di Stefano - director của MADiSON, trong tựa game có khá nhiều references tới nguồn cảm hứng từ Clock Tower II: The Struggle Within(1998) chính là cảm hứng chính cho tựa game của ông. Đối với tôi thì tôi thích cách người ta tâm huyết nghiền ngẫm tác phẩm cũ và đưa vào trong những chi tiết để bày tỏ sự cảm ơn.
 
 ##### Tormented Souls
 
