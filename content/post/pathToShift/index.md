@@ -22,7 +22,7 @@ Vấn đề chính tôi muốn đặt ra ở đây là nếu thực sự muốn 
 
 ##### Alone in the Dark
 
-Được thiết kế bởi 1 công ty Pháp do Frederick Raynal làm giám đốc sản xuất. Lấy bối cảnh các phần chơi đều đậm chất Mỹ vì thị trường họ nhắm đến là thị trường lớn nhất thời bấy giờ là Hoa Kỳ. Từ một căn biệt thự cổ, một biệt thự với lối thiết kế dành cho cướp biển, một thị trấn cao bồi, nó đã trở thành huyền thoại cho dòng game kinh dị. Phong cách rất lãng mạn, rất Pháp mà ta có thể thấy tại bối cảnh Hoa Kỳ. Và đây không chỉ là động lực cho người Pháp tiếp nối mà còn thúc đẩy những tay quý tộc Anh cũng không chịu thua kém cùng với nhiều nhà phát triển Châu Âu khác.
+Được thiết kế bởi 1 công ty Pháp - Infogrames được Frederick Raynal chắp bút thiết kế và tham gia vào quá trình phát triển. Lấy bối cảnh các phần chơi đều đậm chất Mỹ vì thị trường họ nhắm đến là thị trường lớn nhất thời bấy giờ là Hoa Kỳ. Từ một căn biệt thự cổ, một biệt thự với lối thiết kế dành cho cướp biển, một thị trấn cao bồi, nó đã trở thành huyền thoại cho dòng game kinh dị. Phong cách rất lãng mạn, rất Pháp mà ta có thể thấy tại bối cảnh Hoa Kỳ. Và đây không chỉ là động lực cho người Pháp tiếp nối mà còn thúc đẩy những tay quý tộc Anh cũng không chịu thua kém cùng với nhiều nhà phát triển Châu Âu khác.
 
 ##### Silent Hill
 
